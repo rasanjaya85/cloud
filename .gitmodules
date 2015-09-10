@@ -1,6 +1,0 @@
-[submodule "2.0.0"]
-	path = 2.0.0
-	url = git@github.com:rasanjaya85/cloud.git
-[submodule "3.0.0"]
-	path = 3.0.0
-	url = git@github.com:rasanjaya85/cloud.git
